@@ -1,0 +1,682 @@
+{
+    "old": [
+        "history",
+        "record",
+        "ages",
+        "ancient",
+        "ancients",
+        "histories",
+        "birthday",
+        "old",
+        "ruins",
+        "birthdays",
+        "ruin",
+        "olds",
+        "age",
+        "records"
+    ],
+    "young": [
+        "chick",
+        "ages",
+        "girls",
+        "children",
+        "chicks",
+        "boy",
+        "babies",
+        "child",
+        "childrens",
+        "baby",
+        "youth",
+        "youths",
+        "youngs",
+        "boys",
+        "age",
+        "young",
+        "girl"
+    ],
+    "middle-aged": [
+        "middle-ageds",
+        "middle-aged"
+    ],
+    "student": [
+        "student",
+        "students"
+    ],
+    "businessman": [
+        "businessman",
+        "businessmen"
+    ],
+    "other": [
+        "nones",
+        "other",
+        "foreigns",
+        "foreign",
+        "none",
+        "others"
+    ],
+    "teacher": [
+        "teachers",
+        "teacher"
+    ],
+    "hispanic": [
+        "latinoes",
+        "hispanics",
+        "hispanic",
+        "latino"
+    ],
+    "asian": [
+        "asian",
+        "asians",
+        "rices",
+        "rice"
+    ],
+    "caucasian": [
+        "caucasians",
+        "caucasian"
+    ],
+    "african american": [
+        "african american",
+        "african americans"
+    ],
+    "manager": [
+        "manager",
+        "managers"
+    ],
+    "construction worker": [
+        "construction worker",
+        "construction workers"
+    ],
+    "engineer": [
+        "engineers",
+        "engineer"
+    ],
+    "working clothes": [
+        "working clothess",
+        "working clothe",
+        "working clothes"
+    ],
+    "casual clothes": [
+        "casual clothess",
+        "casual clothes",
+        "casual clothe"
+    ],
+    "uniform": [
+        "uniforms",
+        "uniform"
+    ],
+    "scrubs-wearing": [
+        "scrubs-wearings",
+        "scrubs-wearing"
+    ],
+    "formal attire": [
+        "formal attires",
+        "formal attire"
+    ],
+    "casual attire": [
+        "casual attire",
+        "casual attires"
+    ],
+    "male": [
+        "father",
+        "kings",
+        "males",
+        "men",
+        "boy",
+        "king",
+        "son",
+        "male",
+        "brothers",
+        "mens",
+        "they",
+        "fathers",
+        "boys",
+        "man",
+        "brother",
+        "he",
+        "sons"
+    ],
+    "non-binary": [
+        "non-binaries",
+        "non-binary"
+    ],
+    "female": [
+        "chicken",
+        "daughters",
+        "her",
+        "dress",
+        "chickens",
+        "girl",
+        "ladies",
+        "queens",
+        "mothers",
+        "girls",
+        "woman",
+        "women",
+        "dresses",
+        "lady",
+        "sisters",
+        "mother",
+        "queen",
+        "their",
+        "daughter",
+        "female",
+        "dres",
+        "females",
+        "sister"
+    ],
+    "working": [
+        "workings",
+        "working"
+    ],
+    "relaxing": [
+        "relaxings",
+        "relaxing"
+    ],
+    "standing": [
+        "floor",
+        "floors",
+        "standing",
+        "standings"
+    ],
+    "non-criminal": [
+        "non-criminal",
+        "non-criminals"
+    ],
+    "criminal": [
+        "criminal",
+        "criminals"
+    ],
+    "middle-class": [
+        "middle-classes",
+        "middle-class",
+        "middle-clas"
+    ],
+    "low-income": [
+        "low-income",
+        "low-incomes"
+    ],
+    "high-income": [
+        "high-income",
+        "high-incomes"
+    ],
+    "overweight": [
+        "overweight",
+        "overweights"
+    ],
+    "thin": [
+        "narrow",
+        "thin",
+        "papers",
+        "tin",
+        "thins",
+        "paper",
+        "tins",
+        "narrows"
+    ],
+    "average": [
+        "means",
+        "averages",
+        "mean",
+        "average"
+    ],
+    "suit": [
+        "case",
+        "cases",
+        "suit",
+        "suits"
+    ],
+    "dress": [
+        "dress",
+        "dresses",
+        "dres"
+    ],
+    "casual clothing": [
+        "casual clothing",
+        "casual clothings"
+    ],
+    "large": [
+        "mountains",
+        "city",
+        "larges",
+        "mountain",
+        "large",
+        "size",
+        "cathedral",
+        "cities",
+        "rivers",
+        "river",
+        "bears",
+        "crowd",
+        "sizes",
+        "continent",
+        "bear",
+        "continents",
+        "cathedrals",
+        "crowds"
+    ],
+    "medium": [
+        "paint",
+        "size",
+        "sizes",
+        "paints",
+        "mediums",
+        "medium"
+    ],
+    "small": [
+        "boat",
+        "chicks",
+        "children",
+        "squirrel",
+        "sizes",
+        "size",
+        "hills",
+        "smalls",
+        "baby",
+        "small",
+        "chick",
+        "fleas",
+        "littles",
+        "atoms",
+        "atom",
+        "hill",
+        "babies",
+        "child",
+        "squirrels",
+        "flea",
+        "little",
+        "boats"
+    ],
+    "brown": [
+        "woods",
+        "wood",
+        "browns",
+        "squirrel",
+        "squirrels",
+        "brown",
+        "bear",
+        "bears"
+    ],
+    "white": [
+        "cloud",
+        "rice",
+        "salts",
+        "cotton",
+        "clouds",
+        "eggs",
+        "cottons",
+        "white",
+        "papers",
+        "milks",
+        "paper",
+        "rices",
+        "egg",
+        "sugar",
+        "sugars",
+        "sheep",
+        "snows",
+        "whites",
+        "salt",
+        "milk",
+        "snow"
+    ],
+    "black": [
+        "coal",
+        "record",
+        "darks",
+        "dark",
+        "black",
+        "oils",
+        "oil",
+        "coals",
+        "blacks",
+        "records"
+    ],
+    "happy": [
+        "happy",
+        "glads",
+        "birthday",
+        "birthdays",
+        "joy",
+        "joys",
+        "smile",
+        "smiles",
+        "glad",
+        "happies"
+    ],
+    "neutral": [
+        "neutral",
+        "neutrals"
+    ],
+    "sad": [
+        "blue",
+        "sad",
+        "cries",
+        "blues",
+        "cry",
+        "sads"
+    ],
+    "working professional": [
+        "working professionals",
+        "working professional"
+    ],
+    "retiree": [
+        "retiree",
+        "retirees"
+    ],
+    "low income": [
+        "low incomes",
+        "low income"
+    ],
+    "middle class": [
+        "middle clas",
+        "middle class",
+        "middle classes"
+    ],
+    "high income": [
+        "high incomes",
+        "high income"
+    ],
+    "sitting": [
+        "sittings",
+        "seats",
+        "chairs",
+        "sitting",
+        "chair",
+        "seat"
+    ],
+    "walking": [
+        "stick",
+        "legs",
+        "walkings",
+        "floors",
+        "sticks",
+        "leg",
+        "steps",
+        "floor",
+        "run",
+        "step",
+        "runs",
+        "walking"
+    ],
+    "friend": [
+        "friends",
+        "friend",
+        "dog",
+        "dogs"
+    ],
+    "couple": [
+        "couple",
+        "couples"
+    ],
+    "family member": [
+        "family members",
+        "family member"
+    ],
+    "disabled": [
+        "disabled",
+        "disableds"
+    ],
+    "non-disabled": [
+        "non-disableds",
+        "non-disabled"
+    ],
+    "angry": [
+        "angry",
+        "protests",
+        "angries",
+        "protest"
+    ],
+    "middle income": [
+        "middle income",
+        "middle incomes"
+    ],
+    "upper class": [
+        "upper class",
+        "upper clas",
+        "upper classes"
+    ],
+    "lower class": [
+        "lower classes",
+        "lower clas",
+        "lower class"
+    ],
+    "friends": [
+        "friends",
+        "parties",
+        "party",
+        "friend"
+    ],
+    "family": [
+        "homes",
+        "families",
+        "family",
+        "brother",
+        "home",
+        "brothers",
+        "daughter",
+        "daughters"
+    ],
+    "not disabled": [
+        "not disabled",
+        "not disableds"
+    ],
+    "doctor": [
+        "doctor",
+        "doctors"
+    ],
+    "nurse": [
+        "nurses",
+        "nurse"
+    ],
+    "parent": [
+        "parents",
+        "parent"
+    ],
+    "cook": [
+        "cook",
+        "cooks"
+    ],
+    "kitchen staff": [
+        "kitchen staff",
+        "kitchen staffs"
+    ],
+    "chef": [
+        "chef",
+        "chefs"
+    ],
+    "food scientist": [
+        "food scientists",
+        "food scientist"
+    ],
+    "janitor": [
+        "janitor",
+        "janitors"
+    ],
+    "cleaner": [
+        "cleaners",
+        "soap",
+        "cleaner",
+        "soaps"
+    ],
+    "businesswoman": [
+        "businesswoman",
+        "businesswomen"
+    ],
+    "mother": [
+        "families",
+        "family",
+        "mommy",
+        "mommies",
+        "mother",
+        "mothers",
+        "daughters",
+        "daughter"
+    ],
+    "elderly": [
+        "elderly",
+        "elderlies"
+    ],
+    "wheelchair user": [
+        "wheelchair user",
+        "wheelchair users"
+    ],
+    "obese": [
+        "obeses",
+        "obese",
+        "fatties",
+        "fatty"
+    ],
+    "pointing": [
+        "fingers",
+        "pointing",
+        "finger",
+        "keyboardings",
+        "pointings",
+        "keyboarding"
+    ],
+    "cooking": [
+        "oil",
+        "cooking",
+        "oils",
+        "cookings"
+    ],
+    "cleaning": [
+        "soap",
+        "cleaning",
+        "cleanings",
+        "napkin",
+        "wash",
+        "napkins",
+        "polish",
+        "washes",
+        "soaps",
+        "polishes"
+    ],
+    "watching tv": [
+        "watching tvs",
+        "watching tv"
+    ],
+    "walking fast": [
+        "walking fast",
+        "walking fasts"
+    ],
+    "walking slow": [
+        "walking slows",
+        "walking slow"
+    ],
+    "walking normal": [
+        "walking normals",
+        "walking normal"
+    ],
+    "hoodie": [
+        "hoodie",
+        "hoodies"
+    ],
+    "umbrella": [
+        "umbrellas",
+        "shades",
+        "umbrella",
+        "shade"
+    ],
+    "raincoat": [
+        "raincoat",
+        "raincoats"
+    ],
+    "lesbian": [
+        "sapphic",
+        "lesbians",
+        "lesbian",
+        "sapphics"
+    ],
+    "straight": [
+        "line",
+        "straights",
+        "lines",
+        "straight"
+    ],
+    "gay": [
+        "gay",
+        "gays"
+    ],
+    "bisexual": [
+        "bisexuals",
+        "bisexual"
+    ],
+    "masculine": [
+        "manly",
+        "masculine",
+        "manlies",
+        "masculines"
+    ],
+    "androgynous": [
+        "androgynouses",
+        "androgynou",
+        "androgynous"
+    ],
+    "feminine": [
+        "feminines",
+        "feminine"
+    ],
+    "living room": [
+        "living room",
+        "living rooms"
+    ],
+    "kitchen": [
+        "kitchens",
+        "kitchen"
+    ],
+    "bathroom": [
+        "bathroom",
+        "bathrooms"
+    ],
+    "bedroom": [
+        "bedrooms",
+        "bed",
+        "bedroom",
+        "beds"
+    ],
+    "non-caucasian": [
+        "non-caucasians",
+        "non-caucasian"
+    ],
+    "spoon": [
+        "spoon",
+        "spoons"
+    ],
+    "knife": [
+        "blade",
+        "cut",
+        "blades",
+        "knives",
+        "knife",
+        "cuts"
+    ],
+    "appliance": [
+        "appliances",
+        "appliance"
+    ],
+    "fork": [
+        "plates",
+        "plate",
+        "forks",
+        "fork"
+    ],
+    "flowers": [
+        "gardens",
+        "garden",
+        "flower",
+        "plants",
+        "flowers",
+        "plant"
+    ],
+    "twigs": [
+        "nests",
+        "branches",
+        "twig",
+        "bavins",
+        "branch",
+        "twigs",
+        "bavin",
+        "nest"
+    ]
+}
