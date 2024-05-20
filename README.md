@@ -35,7 +35,7 @@ OpenBias is composed of three main steps:
 
 Please note that captions are required for running this pipeline.  
 We provide support for `COCO`, `Flickr30k` and `winobias` datasets.  
-All the scripts of this pipeline `supports multi GPUs`.
+All the scripts of this pipeline `support multi GPUs`.
 
 Please before running the pipeline make sure to **correctly update** the config file (`./utils/config.py`) with the correct paths to the datasets and model weights (e.g., LLMs and VQAs).  
 Please note that the `steps.sh` script includes a full pipeline script example.
