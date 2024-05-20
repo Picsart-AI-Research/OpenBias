@@ -13,6 +13,8 @@
 
 </div>
 
+![alt text](OpenBias.png)
+
 ## Installation
 We recomand to use a virtual environment to install the required environment. 
 ```bash
