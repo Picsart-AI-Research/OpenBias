@@ -21,11 +21,14 @@ We recomand to use a virtual environment to install the required environment.
 # Create a virtual environment and activate it
 python -m venv openbias
 source openbias/bin/activate
+```
+Before installing the required packages, please install [PyTorch](https://pytorch.org/get-started/locally/) separately according to your system and CUDA version.  
+After installing PyTorch, you may install the required packages with the following commands:
+```
 # Upgrade pip and install requirements
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-Please install [PyTorch](https://pytorch.org/get-started/locally/) separately according to your system and CUDA version.
 
 This code has been tested with `PyTorch 2.2.1`, `CUDA 11.8` and `python 3.10.9`.
 
