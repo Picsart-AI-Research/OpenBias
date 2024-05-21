@@ -363,13 +363,6 @@ class Llama:
                 eos=False,
             )
 
-            force_answer = self.tokenizer.encode(
-                f"{B_INST} {('Certainly! Here is your list of stereotypes ').strip()}",
-                bos=True,
-                eos=False,
-            )
-            dialog_tokens += force_answer
-
             prompt_tokens.append(dialog_tokens)
 
 
