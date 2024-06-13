@@ -1,7 +1,7 @@
 <div align="center">
 
 # OpenBias: Open-set Bias Detection in Text-to-Image Generative Models
-[[`Project Page`](https://moreno98.github.io/OpenBiasWS/)][[`arXiv`](https://arxiv.org/abs/2404.07990)][[`pdf`](https://arxiv.org/pdf/2404.07990.pdf)][[`BibTeX`](#bibtex)]
+[[`Project Page`](https://moreno98.github.io/OpenBiasWS/)][[`Abstract`](https://openaccess.thecvf.com/content/CVPR2024/html/DInca_OpenBias_Open-set_Bias_Detection_in_Text-to-Image_Generative_Models_CVPR_2024_paper.html)][[`pdf`](https://openaccess.thecvf.com/content/CVPR2024/papers/DInca_OpenBias_Open-set_Bias_Detection_in_Text-to-Image_Generative_Models_CVPR_2024_paper.pdf)][[`arXiv`](https://arxiv.org/abs/2404.07990)][[`BibTeX`](#bibtex)]
 
 [Moreno D`Incà](https://moreno98.github.io/), [Elia Peruzzo](https://helia95.github.io/), [Massimiliano Mancini](https://mancinimassimiliano.github.io/), [Dejia Xu](https://ir1d.github.io/), [Vidit Goel](https://vidit98.github.io/), [Xingqian Xu](https://xingqian2018.github.io/), [Zhangyang Wang](https://vita-group.github.io/), [Humphrey Shi](https://www.humphreyshi.com/home), [Nicu Sebe](https://disi.unitn.it/~sebe/)
 
