@@ -121,12 +121,12 @@ python make_plots.py --generator stylegan3-ffhq --dataset ffhq --mode generated
 ## BibTeX
 Please cite our work if you find it useful:
 ```bibtex
-@misc{dincà2024openbias,
-      title={OpenBias: Open-set Bias Detection in Text-to-Image Generative Models}, 
-      author={Moreno D'Incà and Elia Peruzzo and Massimiliano Mancini and Dejia Xu and Vidit Goel and Xingqian Xu and Zhangyang Wang and Humphrey Shi and Nicu Sebe},
-      year={2024},
-      eprint={2404.07990},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{D'Inca_2024_CVPR,
+    author    = {D'Inc\`a, Moreno and Peruzzo, Elia and Mancini, Massimiliano and Xu, Dejia and Goel, Vidit and Xu, Xingqian and Wang, Zhangyang and Shi, Humphrey and Sebe, Nicu},
+    title     = {OpenBias: Open-set Bias Detection in Text-to-Image Generative Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {12225-12235}
 }
 ```
