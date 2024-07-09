@@ -58,7 +58,7 @@ This script outputs a JSON file containing the proposed biases under the `./prop
 The supported datasets are `coco` and `flickr30k`.  
 The number of workers and GPUs can be adjusted according to the available resources.
 
-We make available the proposed biases for the COCO and Flickr30k datasets: [COCO](https://drive.google.com/file/d/1sL5t0x2KBdkN4CfXDnhZSufGVj314pS9/view?usp=sharing), [Flickr30k](https://drive.google.com/file/d/1fgIOHAb-KHGcWNtMp155fPBz-M-7Vddk/view?usp=sharing). For each dataset create the folder `./proposed_biases/<dataset>/3/` and move the downloaded files there accordingly.
+We make available the proposed biases for the COCO and Flickr30k datasets: [COCO](https://drive.google.com/file/d/1nGECdt0fcwiJA-5qJgvgnZbGBp4zHnNq/view?usp=sharing), [Flickr30k](https://drive.google.com/file/d/1Dp6IXwXC7tz27tiGCRHAiXEUa7h9Ebjk/view?usp=sharing). For each dataset create the folder `./proposed_biases/<dataset>/3/` and move the downloaded files there accordingly.
 
 ### Image Generation
 This step generates images using the chosen target generative model and by leveraging the previously proposed captions.  
