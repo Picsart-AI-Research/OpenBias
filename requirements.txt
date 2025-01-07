@@ -12,7 +12,7 @@ accelerate
 diffusers
 click
 open_clip_torch
-clip
+openai-clip
 promptcap
 salesforce-lavis
 transformers==4.30.2
