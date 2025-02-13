@@ -46,9 +46,9 @@ class Coco(Dataset):
         self.filtered_image_ids = self.filter_image_ids(categories)
         # load images
         self.captions, self.image_ids, self.caption_ids = self._get_annotations()
-        self.captions = self.captions[:100]
-        self.image_ids = self.image_ids[:100]
-        self.caption_ids = self.caption_ids[:100]
+        # self.captions = self.captions[:100]
+        # self.image_ids = self.image_ids[:100]
+        # self.caption_ids = self.caption_ids[:100]
 
     def _get_annotations(self):
         with open(self.path_annotations, 'r') as f:
